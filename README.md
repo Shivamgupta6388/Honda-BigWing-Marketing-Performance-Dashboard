@@ -3,7 +3,7 @@
 > **Track. Analyze. Accelerate.**
 > An interactive Power BI dashboard that tracks digital marketing performance of Honda BigWing campaigns against targets across platforms.
 
-![Dashboard Preview](screenshots/page-3.png)
+![Dashboard Preview](image.png)
 
 > **Disclaimer:** This is an independent portfolio project. It is not affiliated with or endorsed by Honda. Honda and BigWing names and logos belong to their respective owners. [Data is sample / anonymized — edit this line as applicable.]
 
